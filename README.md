@@ -35,7 +35,6 @@ BK7238 的 AT 固件仓库，用于发布 Sparkleiot BK7238 AT Firmware 的固�
 -  请优先从 Release 页面下载对应版本的固件与压缩包。
 
 ## 下载链接
-
 - [固件发布页](https://github.com/Sparkleiot/BK7238_AT/releases)
 - [当前版本 V1.1.0](https://github.com/Sparkleiot/BK7238_AT/releases/tag/V1.1.0)
 - [SDK 压缩包 BK7238-AT.zip](https://github.com/Sparkleiot/BK7238_AT/releases/download/V1.1.0/BK7238-AT.zip)
